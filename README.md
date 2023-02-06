@@ -1,6 +1,8 @@
-<div class="mybgcolor">
+
 <h1 align="center">Hi 👋,I'm Ariel Karas</h1>
 <h3 align="center">DevOps Engineer</h3>
+
+![](https://visitor-badge.glitch.me/badge?page_id=github.com/xXxARLxXx) [![GitHub followers](https://img.shields.io/github/followers/xXxARLxXx?label=Followers&style=social)](https://github.com/xXxARLxXx/?tab=follow) ![Profile views](https://gpvc.arturio.dev/xXxARLxXx) [![Linkedin Badge](https://img.shields.io/badge/-arielkaras-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ariel-karas/)](https://www.linkedin.com/in/ariel-karas/)
 
 - 👨‍💻 I’m currently learning **Site Reliability Engineer**
 
@@ -20,4 +22,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/xXxARLxXx"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/xXxARLxXx" /></a></p><br><br>
-</div>
