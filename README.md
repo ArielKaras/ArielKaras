@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Anything! 😃**
 
-- 📫 How to reach me **karas.ariel@gmail.com**
+- 📫 How to reach me **ariel1434@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
