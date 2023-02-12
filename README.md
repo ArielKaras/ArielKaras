@@ -2,7 +2,7 @@
 <h1 align="left">Hi 👋,I'm Ariel Karas</h1>
 <h3 align="left">DevOps Engineer</h3>
 
-![](https://visitor-badge.glitch.me/badge?page_id=github.com/xXxARLxXx) [![GitHub followers](https://img.shields.io/github/followers/xXxARLxXx?label=Followers&style=social)](https://github.com/xXxARLxXx/?tab=follow) ![Profile views](https://gpvc.arturio.dev/xXxARLxXx) [![Linkedin Badge](https://img.shields.io/badge/-arielkaras-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ariel-karas/)](https://www.linkedin.com/in/ariel-karas/)
+![](https://visitor-badge.glitch.me/badge?page_id=github.com/xXxARLxXx) [![GitHub followers](https://img.shields.io/github/followers/xXxARLxXx?label=Followers&style=social)](https://github.com/xXxARLxXx/?tab=follow)  [![Linkedin Badge](https://img.shields.io/badge/-arielkaras-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ariel-karas/)](https://www.linkedin.com/in/ariel-karas/)
 
 - 👨‍💻 I’m currently learning **Site Reliability Engineer**
 
